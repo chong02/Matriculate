@@ -21,10 +21,10 @@
 title: Matriculate Homepage
 email: chong02@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello! This site will serve as a one-stop-shop for all things Matriculate!
+  "Hello! This site will serve as a one-stop-shop for all things Matriculate!
   Please let me know if you have any feedback or any suggestions as to what
-  I can add to continue to improve.
-baseurl: "/Matriculate" # the subpath of your site, e.g. /blog
+  I can add to continue to improve."
+baseurl: "Matriculate" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  chong02
